@@ -19,8 +19,8 @@ This tool allows you to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pokemon-collectible-price-tracker.git
-cd pokemon-collectible-price-tracker
+git clone https://github.com/gateak/pokemon-tracer.git
+cd pokemon-tracer
 
 # Install dependencies
 npm install
